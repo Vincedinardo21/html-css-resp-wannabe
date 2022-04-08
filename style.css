@@ -89,6 +89,12 @@ img {
   float: none; 
   }
 
+  #steps .row>.left,
+  #steps .row>.central,
+  #steps .row>.right{
+    float: none;
+  }
+
   
     
 }
